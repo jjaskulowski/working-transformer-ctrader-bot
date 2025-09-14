@@ -1,0 +1,10 @@
+*.v2
+*.suo
+*.bin
+*/.vscode/*
+*/bin/Debug/
+*/bin/Release/
+*/obj/Debug/*
+*/obj/Release/*
+/CumulativeProbabilityStrategy-cTrader/CumulativeProbabilityStrategy/bin/
+/CumulativeProbabilityStrategy-cTrader/CumulativeProbabilityStrategy/obj/
